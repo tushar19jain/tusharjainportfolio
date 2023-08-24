@@ -1,0 +1,9 @@
+.btn:hover{
+    rotate: 2.8deg;
+    transition: 0.3s ease;
+}
+.navbar ul li:hover{
+    text-decoration: underline;
+    color: cyan;
+}
+
